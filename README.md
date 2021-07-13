@@ -1,0 +1,2 @@
+# JavaAutotestsFramework
+ForAutotest
