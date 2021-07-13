@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: tests.ArticleTests
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 4, Skipped: 0, Time elapsed: 0.381 s <<< FAILURE! - in tests.ArticleTests
+testCompareArticleTitle(tests.ArticleTests)  Time elapsed: 0.146 s  <<< ERROR!
+java.lang.Exception: Cannot detected type drivernull
+
+testCompareArticleTitle(tests.ArticleTests)  Time elapsed: 0.148 s  <<< ERROR!
+java.lang.NullPointerException
+
+testSwipeArticleTitle(tests.ArticleTests)  Time elapsed: 0.007 s  <<< ERROR!
+java.lang.Exception: Cannot detected type drivernull
+
+testSwipeArticleTitle(tests.ArticleTests)  Time elapsed: 0.008 s  <<< ERROR!
+java.lang.NullPointerException
+

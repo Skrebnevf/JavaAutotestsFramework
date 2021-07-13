@@ -1,0 +1,28 @@
+-------------------------------------------------------------------------------
+Test set: tests.SearchTests
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 8, Skipped: 0, Time elapsed: 0.779 s <<< FAILURE! - in tests.SearchTests
+testAmountOfNotEmptySearch(tests.SearchTests)  Time elapsed: 0.444 s  <<< ERROR!
+java.lang.Exception: Cannot detected type drivernull
+
+testAmountOfNotEmptySearch(tests.SearchTests)  Time elapsed: 0.446 s  <<< ERROR!
+java.lang.NullPointerException
+
+testAmountOfEmptySearch(tests.SearchTests)  Time elapsed: 0.007 s  <<< ERROR!
+java.lang.Exception: Cannot detected type drivernull
+
+testAmountOfEmptySearch(tests.SearchTests)  Time elapsed: 0.009 s  <<< ERROR!
+java.lang.NullPointerException
+
+testCancelSearch(tests.SearchTests)  Time elapsed: 0.007 s  <<< ERROR!
+java.lang.Exception: Cannot detected type drivernull
+
+testCancelSearch(tests.SearchTests)  Time elapsed: 0.007 s  <<< ERROR!
+java.lang.NullPointerException
+
+testSearch(tests.SearchTests)  Time elapsed: 0.005 s  <<< ERROR!
+java.lang.Exception: Cannot detected type drivernull
+
+testSearch(tests.SearchTests)  Time elapsed: 0.006 s  <<< ERROR!
+java.lang.NullPointerException
+
